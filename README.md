@@ -1,0 +1,2 @@
+# EasySit
+EasySit datapack
