@@ -1,0 +1,1 @@
+tellraw @s {"text":"You sat down.","color":"gray"}
