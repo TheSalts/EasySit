@@ -1,2 +1,2 @@
-# EasySit
-EasySit datapack
+# Download
+https://modrinth.com/datapack/easysit
